@@ -1,6 +1,5 @@
 <?php
 /**
- * Testing git for miss pulls in master while not pulled in develop
  * The Sidebar containing the main widget areas.
  *
  * @package Tanlinell
